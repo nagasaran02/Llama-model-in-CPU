@@ -56,5 +56,6 @@ After Dowloading the model place that llama model in the model folder
 
 # Final Output 
 
-<img width="1470" alt="Screenshot 2024-07-05 at 4 54 17 PM" src="https://github.com/nagasaran02/Llama-model-in-CPU/assets/125739408/325f8096-79f6-409c-9a64-17cdc22f2dca">
+<img width="1470" alt="Screenshot 2024-07-05 at 4 53 59 PM" src="https://github.com/nagasaran02/Llama-model-in-CPU/assets/125739408/fd89b867-72ef-49ca-ad45-b4d0dd042055">
+
 
