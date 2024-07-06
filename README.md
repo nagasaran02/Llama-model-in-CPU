@@ -1,29 +1,51 @@
-# Using Chainlit for any Bot creation...
+# Llama2-on-CPU-Machine
 
+# How to run?
 
-## documentation link: https://docs.chainlit.io/get-started/overview
+### Steps 1:
 
+clone the repository
 
-```
-pip install chainlit
-
-```
-
-
-```
- git init
-    2  conda create -p env python=3.8 
-    3  source activate base
-    4  clear
-    5  bash init_setup.sh
-    6  source activate ./venv
-    7  clear
-    8  pip list
-    9  clear
-   10  touch .gitignore
-   11  history
+```bash
+git clone " "
 ```
 
+### Steps 2:
+
+Create a virtual environment
+
+```bash
+conda create -n cpullama python=3.12 -y
 ```
-chainlit hello
+
+```bash
+conda activate cpullama
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python app.py
+```
+```bash
+after you run the app.py you should open local browser and type localhost:"your port number(8080 or 8050)"
+```
+
+### Download the quantize model from the link provided in model folder & keep the model in the model directory:
+
+```ini
+## Download the Llama 2 Model:
+
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+
+## From the following link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+
+```bash
+After Dowloading the model place that llama model in the model folder 
+
 ```
