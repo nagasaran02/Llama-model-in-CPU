@@ -49,3 +49,12 @@ https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 After Dowloading the model place that llama model in the model folder 
 
 ```
+
+# The interface looks like this 
+
+<img width="1470" alt="Screenshot 2024-07-05 at 4 54 17 PM" src="https://github.com/nagasaran02/Llama-model-in-CPU/assets/125739408/8564d022-b0f2-44f2-b50f-f1c24d709ce5">
+
+# Final Output 
+
+<img width="1470" alt="Screenshot 2024-07-05 at 4 54 17 PM" src="https://github.com/nagasaran02/Llama-model-in-CPU/assets/125739408/325f8096-79f6-409c-9a64-17cdc22f2dca">
+
