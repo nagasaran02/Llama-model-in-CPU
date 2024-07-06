@@ -7,7 +7,7 @@
 clone the repository
 
 ```bash
-git clone " "
+git clone "https://github.com/nagasaran02/Llama-model-in-CPU.git"
 ```
 
 ### Steps 2:
